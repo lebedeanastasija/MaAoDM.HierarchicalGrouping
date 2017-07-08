@@ -1,6 +1,6 @@
 var distancesMatrix = [],
 
-	objectsCount = 6,
+	objectsCount = 7,
 	distancesCount,
 	distancesInfo = [],
 	distancesValues;
